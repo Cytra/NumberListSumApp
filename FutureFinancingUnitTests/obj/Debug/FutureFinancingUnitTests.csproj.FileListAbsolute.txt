@@ -1,0 +1,17 @@
+C:\Users\bc1729\source\repos\FutureFinancing\FutureFinancingUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bc1729\source\repos\FutureFinancing\FutureFinancingUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bc1729\source\repos\FutureFinancing\FutureFinancingUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bc1729\source\repos\FutureFinancing\FutureFinancingUnitTests\bin\Debug\FutureFinancingUnitTests.dll
+C:\Users\bc1729\source\repos\FutureFinancing\FutureFinancingUnitTests\bin\Debug\FutureFinancingUnitTests.pdb
+C:\Users\bc1729\source\repos\FutureFinancing\FutureFinancingUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\bc1729\source\repos\FutureFinancing\FutureFinancingUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\bc1729\source\repos\FutureFinancing\FutureFinancingUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\bc1729\source\repos\FutureFinancing\FutureFinancingUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\bc1729\source\repos\FutureFinancing\FutureFinancingUnitTests\obj\Debug\FutureFinancingUnitTests.csprojAssemblyReference.cache
+C:\Users\bc1729\source\repos\FutureFinancing\FutureFinancingUnitTests\obj\Debug\FutureFinancingUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\bc1729\source\repos\FutureFinancing\FutureFinancingUnitTests\obj\Debug\FutureFinancingUnitTests.csproj.CopyComplete
+C:\Users\bc1729\source\repos\FutureFinancing\FutureFinancingUnitTests\obj\Debug\FutureFinancingUnitTests.dll
+C:\Users\bc1729\source\repos\FutureFinancing\FutureFinancingUnitTests\obj\Debug\FutureFinancingUnitTests.pdb
+C:\Users\bc1729\source\repos\FutureFinancing\FutureFinancingUnitTests\bin\Debug\FutureFinancing.exe
+C:\Users\bc1729\source\repos\FutureFinancing\FutureFinancingUnitTests\bin\Debug\FutureFinancing.pdb
+C:\Users\bc1729\source\repos\FutureFinancing\FutureFinancingUnitTests\bin\Debug\FutureFinancing.exe.config

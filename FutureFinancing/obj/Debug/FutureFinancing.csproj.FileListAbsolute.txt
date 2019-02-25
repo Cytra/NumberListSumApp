@@ -1,0 +1,8 @@
+C:\Users\bc1729\source\repos\FutureFinancing\FutureFinancing\bin\Debug\FutureFinancing.exe.config
+C:\Users\bc1729\source\repos\FutureFinancing\FutureFinancing\bin\Debug\FutureFinancing.exe
+C:\Users\bc1729\source\repos\FutureFinancing\FutureFinancing\bin\Debug\FutureFinancing.pdb
+C:\Users\bc1729\source\repos\FutureFinancing\FutureFinancing\obj\Debug\FutureFinancing.Properties.Resources.resources
+C:\Users\bc1729\source\repos\FutureFinancing\FutureFinancing\obj\Debug\FutureFinancing.csproj.GenerateResource.cache
+C:\Users\bc1729\source\repos\FutureFinancing\FutureFinancing\obj\Debug\FutureFinancing.csproj.CoreCompileInputs.cache
+C:\Users\bc1729\source\repos\FutureFinancing\FutureFinancing\obj\Debug\FutureFinancing.exe
+C:\Users\bc1729\source\repos\FutureFinancing\FutureFinancing\obj\Debug\FutureFinancing.pdb
